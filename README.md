@@ -32,7 +32,7 @@
 
 <br /><br /><br />
 
-<img align="left" alt="Superb-Man's Github Stats" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true" />    &nbsp;
+<img align="left" alt="Superb-Man's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Superb-Man&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Superb-Man&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: /
