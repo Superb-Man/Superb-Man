@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Superb-Man&label=Profile%20views&color=0e75b6&style=flat" alt="Superb-Man" /> </p>
-
 ### Hi there, I am Toriqe27 👋
 
 
