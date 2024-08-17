@@ -3,8 +3,8 @@
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently perfecting my skills with svelte and MVM Architecture.
-- 💻 I’m looking foward to complete a fully image generated State-machine solver 
+- 🌱 I’m currently learning Godot
+- 💻 I’m looking foward to... 
  ### Connect with me:
 
 [<img align="left" alt="Superb-Man" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
