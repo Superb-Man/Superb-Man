@@ -2,9 +2,9 @@
 
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning Godot
-- 💻 I’m looking foward to... 
+- 🚀 I’m currently working on making a simple regular expression parser. 
+- 🧠 I’m currently implemening feed 	 forward neural network framework
+- 💻 I’m looking foward to learn more and less
  ### Connect with me:
 
 [<img align="left" alt="Superb-Man" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -30,8 +30,7 @@
 
 <br /><br /><br />
 
-<img align="left" alt="Superb-Man's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Superb-Man&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Superb-Man&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Superb-Man's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Superb-Man&show_icons=true" />
 
 [website]: /
 [facebook]: /
