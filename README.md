@@ -2,9 +2,11 @@
 
 
 - 💻 I ~like~ **love** coding
-- 🚀 I’m currently working on making a simple regular expression parser. 
-- 🧠 I’m currently implemening feed 	 forward neural network framework
-- 💻 I’m looking foward to learn more and less
+- ~🚀 I’m currently working on making a simple regular expression parser.~
+- ~🧠 I’m currently implemening feed 	 forward neural network framework.~
+- I'm currently learning android application development for contribution on Samsung Health android application project at Samsung Research.
+- Exploring Machine Learning in depth.
+- Exploring Docker. Will learn distributed systems in upcoming days.
  ### Connect with me:
 
 [<img align="left" alt="Superb-Man" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
