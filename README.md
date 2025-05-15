@@ -6,6 +6,7 @@
 - ~🧠 I’m currently implemening feed 	 forward neural network framework.~
 - I'm currently learning android application development for contribution on Samsung Health android application project at Samsung Research.
 - Exploring Machine Learning in depth.
+- Implementing thread library to recap C.
 - Exploring Docker. Will learn distributed systems in upcoming days.
  ### Connect with me:
 
